@@ -1,6 +1,8 @@
 # LIGOR: Liver Cancer Geospatial Omics Resource
 LIGOR is a comprehensive database designed to characterize the heterogeneity of hepatocellular carcinoma based on multi-omics data. It enables the exploration of multi-layer information across cohorts, facilitating the discovery of clinical relevance, spatial distribution patterns and others. You can visit at http://ligor.especies.cn/home.
 
+![LIGOR](https://github.com/Zhailab2026/LIGOR/LIGOR_1.png)
+
 If you have any questions, please open an issue here or reach out to us at epg@ioz.ac.cn.
 
 # Key Features
