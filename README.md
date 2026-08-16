@@ -13,11 +13,11 @@ If you have any questions, please open an issue here or reach out to us at epg@i
 
 # Key Features
 * **Geospatial Analysis**
-  Visualize multi-modal heterogeneity of molecular features within and between a large group of HCC patients.
+  <br>Visualize multi-modal heterogeneity of molecular features within and between a large group of HCC patients.
 * **Temporal Analysis**
-  Timing multi-modal changes by mapping them onto the phylogenetic tree.
+  <br>Timing multi-modal changes by mapping them onto the phylogenetic tree.
 * **Custom Analysis**
-  Support user-defined subgrouping analysis in gene expression, biomarker and survival analysis.
+  <br>Support user-defined subgrouping analysis in gene expression, biomarker and survival analysis.
 
 # How to use
 This repository provides the visualization scripts for data available for download through the LIGOR web interface. These scripts enable users to directly reproduce high-quality, publication-ready visualizations using the downloaded data.
