@@ -23,3 +23,4 @@ If you have any questions, please open an issue here or reach out to us at epg@i
 This repository provides the visualization scripts for data available for download through the LIGOR web interface. These scripts enable users to directly reproduce high-quality, publication-ready visualizations using the downloaded data.
 
 # How to cite
+Han L, Zhang M, Chen T, Ding Y, Luo X, Ding X, Liu X, Zhang X, Xu L, Du Z, Jia Z, Lin C, Zhai W. LIGOR: A Geospatial Multi-omic Atlas of Intra-tumor Spatial Heterogeneity in Hepatocellular Carcinoma. Genomics Proteomics Bioinformatics. 2026 Nov 4:qzag111. doi: 10.1093/gpbjnl/qzag111. 
